@@ -1,0 +1,173 @@
+{
+  'id': '0f64209f4a1c4a286589534e_0|0f64209f4a1c4a286589534e_1|0f64209f4a1c4a286589534e_2',
+  'flyFrom': 'LHR',
+  'flyTo': 'NRT',
+  'cityFrom': 'London',
+  'cityCodeFrom': 'LON',
+  'cityTo': 'Tokyo',
+  'cityCodeTo': 'TYO',
+  'countryFrom': {
+    'code': 'GB',
+    'name': 'United Kingdom'
+  },
+  'countryTo': {
+    'code': 'JP',
+    'name': 'Japan'
+  },
+  'type_flights': [
+    'deprecated'
+  ],
+  'nightsInDest': 11,
+  'quality': 1379.332725,
+  'distance': 9601.4,
+  'duration': {
+    'departure': 52800,
+    'return': 45900,
+    'total': 98700
+  },
+  'price': 971,
+  'conversion': {
+    'EUR': 1136,
+    'GBP': 971
+  },
+  'bags_price': {
+    '1': 127.4
+  },
+  'baglimit': {
+    'hand_height': 35,
+    'hand_length': 45,
+    'hand_weight': 6,
+    'hand_width': 20,
+    'hold_dimensions_sum': 158,
+    'hold_height': 52,
+    'hold_length': 78,
+    'hold_weight': 23,
+    'hold_width': 28
+  },
+  'availability': {
+    'seats': 1
+  },
+  'routes': [
+    [
+      'LHR',
+      'NRT'
+    ],
+    [
+      'HND',
+      'LHR'
+    ]
+  ],
+  'airlines': [
+    'JL',
+    'AY'
+  ],
+  'route': [
+    {
+      'id': '0f64209f4a1c4a286589534e_0',
+      'combination_id': '0f64209f4a1c4a286589534e',
+      'flyFrom': 'LHR',
+      'flyTo': 'HEL',
+      'cityFrom': 'London',
+      'cityCodeFrom': 'LON',
+      'cityTo': 'Helsinki',
+      'cityCodeTo': 'HEL',
+      'airline': 'AY',
+      'flight_no': 1332,
+      'operating_carrier': 'AY',
+      'operating_flight_no': '1332',
+      'fare_basis': 'VLN0G1B8',
+      'fare_category': 'M',
+      'fare_classes': 'V',
+      'fare_family': '',
+      'return': 0,
+      'bags_recheck_required': False,
+      'guarantee': False,
+      'vi_connection': False,
+      'last_seen': '2021-12-10T19:12:00.000Z',
+      'refresh_timestamp': '1970-01-01T00:00:00.000Z',
+      'equipment': None,
+      'vehicle_type': 'aircraft',
+      'local_arrival': '2021-12-11T15:15:00.000Z',
+      'utc_arrival': '2021-12-11T13:15:00.000Z',
+      'local_departure': '2021-12-11T10:20:00.000Z',
+      'utc_departure': '2021-12-11T10:20:00.000Z'
+    },
+    {
+      'id': '0f64209f4a1c4a286589534e_1',
+      'combination_id': '0f64209f4a1c4a286589534e',
+      'flyFrom': 'HEL',
+      'flyTo': 'NRT',
+      'cityFrom': 'Helsinki',
+      'cityCodeFrom': 'HEL',
+      'cityTo': 'Tokyo',
+      'cityCodeTo': 'TYO',
+      'airline': 'AY',
+      'flight_no': 73,
+      'operating_carrier': 'AY',
+      'operating_flight_no': '73',
+      'fare_basis': 'VLN0G1B8',
+      'fare_category': 'M',
+      'fare_classes': 'V',
+      'fare_family': '',
+      'return': 0,
+      'bags_recheck_required': False,
+      'guarantee': False,
+      'vi_connection': False,
+      'last_seen': '2021-12-10T19:12:00.000Z',
+      'refresh_timestamp': '1970-01-01T00:00:00.000Z',
+      'equipment': None,
+      'vehicle_type': 'aircraft',
+      'local_arrival': '2021-12-12T10:00:00.000Z',
+      'utc_arrival': '2021-12-12T01:00:00.000Z',
+      'local_departure': '2021-12-11T17:30:00.000Z',
+      'utc_departure': '2021-12-11T15:30:00.000Z'
+    },
+    {
+      'id': '0f64209f4a1c4a286589534e_2',
+      'combination_id': '0f64209f4a1c4a286589534e',
+      'flyFrom': 'HND',
+      'flyTo': 'LHR',
+      'cityFrom': 'Tokyo',
+      'cityCodeFrom': 'TYO',
+      'cityTo': 'London',
+      'cityCodeTo': 'LON',
+      'airline': 'JL',
+      'flight_no': 43,
+      'operating_carrier': 'JL',
+      'operating_flight_no': '43',
+      'fare_basis': 'QLN0A1M8',
+      'fare_category': 'M',
+      'fare_classes': 'Q',
+      'fare_family': '',
+      'return': 1,
+      'bags_recheck_required': False,
+      'guarantee': False,
+      'vi_connection': False,
+      'last_seen': '2021-12-10T19:12:00.000Z',
+      'refresh_timestamp': '1970-01-01T00:00:00.000Z',
+      'equipment': None,
+      'vehicle_type': 'aircraft',
+      'local_arrival': '2021-12-23T15:15:00.000Z',
+      'utc_arrival': '2021-12-23T15:15:00.000Z',
+      'local_departure': '2021-12-23T11:30:00.000Z',
+      'utc_departure': '2021-12-23T02:30:00.000Z'
+    }
+  ],
+  'booking_token': 'CKV3vGFwfDNIkmYIlmujLlQzHeMXVYY5GnzHcOdzmNzVsVIYltBtgkpLRyuchYS69-GTZg1_ZgNU_fdm6Gjx_fm6OVowqW3atr518fIE99jpTmRoWJb1QMa0CkrvLApuTR4o09uFFrT5YF97zE8MeDzEUjMRzDLDi-aNkIn8KAUtYE6VOaVLozG-5pD27NvfVMOjcCHl9-kYywzGgZtcTwVjuwEgcefAR8K5RhZUzAB-bZlsNEeyA8RUOEoL5Oebbe3695rEVD5zkWCewaZTr9OpmWOB2NmhmZgUNJCgB4FayydjTUuNrT_cFqRfltnjsHMnZIDmYXkRaJNlLrfZx3u66gvhr1DVFEb5YbRT2rKYr-ELrH-4iWDzxakIPhnyLTkJzOerZi58WZY_qSuI1xRWtL8uq_7brk695JciKMRdvAoiuEc5JHXTt_q35WpTD',
+  'deep_link': 'https://www.kiwi.com/deep?from=LHR&to=NRT&flightsId=0f64209f4a1c4a286589534e_0%7C0f64209f4a1c4a286589534e_1%7C0f64209f4a1c4a286589534e_2&price=1136&passengers=1&affilid=nostawflightsearch&lang=en&currency=GBP&booking_token=CKV3vGFwfDNIkmYIlmujLlQzHeMXVYY5GnzHcOdzmNzVsVIYltBtgkpLRyuchYS69-GTZg1_ZgNU_fdm6Gjx_fm6OVowqW3atr518fIE99jpTmRoWJb1QMa0CkrvLApuTR4o09uFFrT5YF97zE8MeDzEUjMRzDLDi-aNkIn8KAUtYE6VOaVLozG-5pD27NvfVMOjcCHl9-kYywzGgZtcTwVjuwEgcefAR8K5RhZUzAB-bZlsNEeyA8RUOEoL5Oebbe3695rEVD5zkWCewaZTr9OpmWOB2NmhmZgUNJCgB4FayydjTUuNrT_cFqRfltnjsHMnZIDmYXkRaJNlLrfZx3u66gvhr1DVFEb5YbRT2rKYr-ELrH-4iWDzxakIPhnyLTkJzOerZi58WZY_qSuI1xRWtL8uq_7brk695JciKMRdvAoiuEc5JHXTt_q35WpTD',
+  'tracking_pixel': '',
+  'facilitated_booking_available': False,
+  'pnr_count': 1,
+  'has_airport_change': False,
+  'technical_stops': 0,
+  'throw_away_ticketing': False,
+  'hidden_city_ticketing': False,
+  'virtual_interlining': False,
+  'transfers': [
+
+  ],
+  'local_arrival': '2021-12-12T10:00:00.000Z',
+  'utc_arrival': '2021-12-12T01:00:00.000Z',
+  'local_departure': '2021-12-11T10:20:00.000Z',
+  'utc_departure': '2021-12-11T10:20:00.000Z'
+}
