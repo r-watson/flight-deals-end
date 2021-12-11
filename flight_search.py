@@ -5,8 +5,8 @@ from flight_data import FlightData
 from pprint import pprint
 
 
-# load_dotenv(r"G:\My Drive\Programming\Python\EnvironmentVariables\.env.txt")
-load_dotenv(r"C:\Users\watsorob\Google Drive\Programming\Python\EnvironmentVariables\.env.txt")
+load_dotenv(r"G:\My Drive\Programming\Python\EnvironmentVariables\.env.txt")
+# load_dotenv(r"C:\Users\watsorob\Google Drive\Programming\Python\EnvironmentVariables\.env.txt")
 TEQUILA_ENDPOINT = "https://tequila-api.kiwi.com"
 TEQUILA_API_KEY = os.getenv("TEQUILA_API")
 
@@ -34,7 +34,7 @@ class FlightSearch:
             "flight_type": "round",
             "one_for_city": 0,
             "max_stopovers": 0,
-            "curr": "GBP"
+            "curr": "USD"
         }
 
         response = requests.get(
